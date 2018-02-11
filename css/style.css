@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-image: url("../images/back.jpg");
+   }
+.heading
+{
+	 color: #ffcb05;
+  text-align: center;
+  text-shadow: 3px 3px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -3px 1px 0 #000, 3px 2px 0 #000;
+  letter-spacing: 4px;
+  font: 100px/100px 'Matching Solid', Helvetica, Arial, Sans-Serif;
+  -webkit-text-stroke: 4px #3c5aa6;
+  font-family: 'Sofia';
+
+}
+.scoreHead
+{
+	color: #ffcb05;
+  text-align: center;
+  text-shadow: 3px 3px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -3px 1px 0 #000, 3px 2px 0 #000;
+  letter-spacing: 4px;
+  font: 65px/65px 'Matching Solid', Helvetica, Arial, Sans-Serif;
+  -webkit-text-stroke: 3px #3c5aa6;
+  font-family: 'Sofia';
+}
+.items
+{
+
+  color: #ffcb05;
+  text-align: center;
+  text-shadow: 3px 3px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -3px 1px 0 #000, 3px 2px 0 #000;
+  letter-spacing: 4px;
+  font: 45px/45px 'Matching Solid', Helvetica, Arial, Sans-Serif;
+  -webkit-text-stroke: 3px #3c5aa6;
+  font-family: 'Sofia';
+}
