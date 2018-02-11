@@ -79,7 +79,7 @@ proPlayer.prototype.reset=function()        //function to reset the player posit
 
 proPlayer.prototype.update=function()       //if player wins the game then updating its score by one and reseting it to starting position
 {
-    console.log(count.innerHTML);
+    
   
      if(player.x==200 && player.y==170 && visited1==0)
     {
